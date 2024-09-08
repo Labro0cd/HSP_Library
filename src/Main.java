@@ -5,6 +5,5 @@ public class Main {
         Author author2 = new Author("Александр", "Пушкин");
         Book book2 = new Book("Дубровский",author2.getFirstName()+" "+author2.getLastName(),1832 );
         book2.setYearRelease(1833);
-
     }
 }
