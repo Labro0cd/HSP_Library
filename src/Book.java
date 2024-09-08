@@ -24,4 +24,5 @@ public class Book {
     public void setYearRelease(int yearRelease) {
         this.yearRelease = yearRelease;
     }
+
 }
